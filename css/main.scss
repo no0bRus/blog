@@ -37,6 +37,17 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
+/*@include media-query($on-palm) {
+    .body {
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+        background: local;
+     }
+}
+*/
+
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
