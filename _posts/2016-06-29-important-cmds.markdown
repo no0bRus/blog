@@ -19,4 +19,6 @@ mailing func:
 @mail($admin_email, $tel, $message, $headers);
 
 
+source: https://eureka.ykyuen.info/2011/02/06/configure-postfixsendmail-for-php-mail-in-ubuntu/
+
 {% endhighlight %}
