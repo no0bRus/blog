@@ -17,7 +17,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    //background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -28,9 +28,8 @@ body {
     background-image: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
     background-size: contain;
-	background-size: 100%;
+    background-size: 1400px;
 }
 
 
@@ -107,8 +106,8 @@ a {
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: darken($brand-color, 25%);
+      //  text-decoration: underline;
     }
 }
 
