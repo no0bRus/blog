@@ -5,9 +5,9 @@ date:   2016-06-30 00:18:21 +0300
 categories: web
 ---
 
-Important commands to remember:
+Just a reminder
 
-{% highlight ruby %}
+{% highlight php %}
 bash
 echo testing | mail -s Bla m.e.morozov1@gmail.com
 
