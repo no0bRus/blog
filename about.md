@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello. This is my personal blog powered by jekyll. I hope you will find what you are looking for. Perhaps you will find it here, who knows ;)
+My personal blog powered by jekyll. 

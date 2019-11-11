@@ -7,13 +7,12 @@
 
 # Site settings
 title: Michael Morozov
-email: no0bRus7@gmail.com
+email: m.e.morozov1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Computer Science student at Iona College, currently residing in Moscow, Russia. Starting career as a Web Programmer 🌐
+  Computer Science BA at Iona College, Metallurgy of nonferrous metals at Moscow Institute of Steel and Alloys. Currently living in Moscow, Russia. Building a career in technology. 🌐
 baseurl: #"/blog"
-url: "https://no0brus.github.io/" # the base hostname & protocol for your site
-twitter_username: mishamishaco
-github_username:  no0bRus
+url: "https://mikefrosov.github.io/" # the base hostname & protocol for your site
+github_username:  mikefrostov
 
 # Build settings
 #markdown: kramdown
