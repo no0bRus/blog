@@ -1,0 +1,16 @@
+I"Y<p>Just a reminder</p>
+
+<figure class="highlight"><pre><code class="language-php" data-lang="php"><span class="nx">bash</span>
+<span class="k">echo</span> <span class="nx">testing</span> <span class="o">|</span> <span class="nb">mail</span> <span class="o">-</span><span class="nx">s</span> <span class="nx">Bla</span> <span class="nx">m</span><span class="o">.</span><span class="nx">e</span><span class="o">.</span><span class="nx">morozov1</span><span class="o">@</span><span class="nx">gmail</span><span class="o">.</span><span class="nx">com</span>
+
+<span class="nx">PHP</span>
+<span class="nx">to</span> <span class="nx">retrieve</span> <span class="nx">data</span> <span class="nx">from</span> <span class="nx">a</span> <span class="nx">form</span><span class="o">:</span>
+<span class="err">\</span><span class="nv">$_POST</span><span class="p">[</span><span class="s2">"telephone"</span><span class="p">];</span>
+
+<span class="nx">mailing</span> <span class="nx">func</span><span class="o">:</span>
+<span class="o">@</span><span class="nb">mail</span><span class="p">(</span><span class="nv">$admin_email</span><span class="p">,</span> <span class="nv">$tel</span><span class="p">,</span> <span class="nv">$message</span><span class="p">,</span> <span class="nv">$headers</span><span class="p">);</span>
+
+
+<span class="nx">source</span><span class="o">:</span> <span class="nx">https</span><span class="o">://</span><span class="nx">eureka</span><span class="o">.</span><span class="nx">ykyuen</span><span class="o">.</span><span class="nx">info</span><span class="o">/</span><span class="mi">2011</span><span class="o">/</span><span class="mo">02</span><span class="o">/</span><span class="mo">06</span><span class="o">/</span><span class="nx">configure</span><span class="o">-</span><span class="nx">postfixsendmail</span><span class="o">-</span><span class="k">for</span><span class="o">-</span><span class="nx">php</span><span class="o">-</span><span class="nb">mail</span><span class="o">-</span><span class="nx">in</span><span class="o">-</span><span class="nx">ubuntu</span><span class="o">/</span></code></pre></figure>
+
+:ET

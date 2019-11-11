@@ -1,0 +1,16 @@
+I"�<p>Jekyll is fun, can’t wait to see what else I’ll be able to implement here. Also I’m trying out some code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(){</span>
+<span class="nc">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">"Hello everyone xoxo"</span><span class="o">);</span>
+<span class="o">}</span></code></pre></figure>
+
+<p>here’s how you add a pic to this post:</p>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">![alt text][id]
+
+[id]: /url/to/img.jpg "Title"</code></pre></figure>
+
+<h1> GOLYANOVO NE BRUKLYN </h1>
+<p><img src="/img/bg11.jpg" alt="text in case of missing img" title="It's my low res bg pic" /></p>
+
+:ET
